@@ -1,5 +1,5 @@
 
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://github.com/Ayham7i/College-management-system.git"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 
 
 # College-management-system
